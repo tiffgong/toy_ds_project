@@ -3,3 +3,4 @@
 DSCI assignment
 
 project creation data: october 8th
+author: Tiffany Gong
